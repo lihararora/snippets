@@ -1,4 +1,3 @@
-a = 2
 b = 'TIM'
 c = type(b)
 print (type(b))
