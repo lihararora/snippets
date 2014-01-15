@@ -1,9 +1,17 @@
-b = 'TIM'
-c = type(b)
-print (type(b))
-s = 'rahil'
-print (s[0:-2])
-ui = input("Enter a number:")
-uconv = int(ui)
-power = uconv**7
-print(uconv, "raised to the seventh power is:", power)
+import sys
+alist = ["Rahil", "is", 22, "years", "old"]
+alist.remove("old")
+print(alist)
+alist.reverse()
+print(alist)
+alist.reverse()
+alist.insert(1,"Arora")
+alist.insert(5,"old")
+print(alist)
+adict = {1:"uno", 2:"dos", 3:"tres"}
+print(adict)
+adict[5] = alist
+print(adict)
+for i in alist:
+    print(type(i))
+print(sys.path)
