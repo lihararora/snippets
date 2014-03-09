@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+'''
+@author: Rahil Arora
+@contact: rahil@jhu.edu
+'''
+
 def is_prime(num):
     for j in range(2,num):
         if (num % j) == 0:
