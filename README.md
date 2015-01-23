@@ -1,4 +1,4 @@
-python_practice
+snippets
 ===============
 
-This repository is being used to learn and practice python programming.
+Collection of code snippets from various programming/scripting languages.
