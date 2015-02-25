@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 '''
+@cryptopals: s1_c2
 @author: Rahil Arora
 '''
 
