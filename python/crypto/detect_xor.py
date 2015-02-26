@@ -7,9 +7,7 @@
 
 import binascii
 
-ciphers = []
-ciphers = [line for line in open('ciphers.txt', "rb")]
-print(ciphers)
+ciphers = [line[:-1] if line[-1] == '\n' else line for line in open('ciphers.txt')]
 
 '''
 Returns the numner of times common characters appear in the string
@@ -20,21 +18,20 @@ def stupid_score(sentence):
     return score
 
 if __name__ == "__main__":
-    key_chain = " ETAOINSHRDLUCMFGYPWBVVKXJQZetaoinshrdlucmfgypwbvkxjqz"
-    for hex_bytes in ciphers:
-        cipher = binascii.hexlify(hex_bytes)
-        high = 0
-        correct_key = ' '
-        cipher_string = cipher_bytes.decode("utf-8").rstrip('\n')
-        print(cipher_string)
-        for key in key_chain:
-            s = ''.join(chr(ord(key) ^ ord(k)) for k in cipher_string)
+    high = 0
+    i = 1
+    correct_key = ' '
+    for cipher in ciphers:
+        cipher_bytes = binascii.unhexlify(cipher)
+        for key in range(0, 256):
+            s = ''.join(chr(key ^ k) for k in cipher_bytes)
             ss = stupid_score(s)
             if high < ss:
                 high = ss
                 correct_key = key
-        #print("----------------FOUND----------------")
-        #print("High =", high)
-        #print("Key = ", correct_key)
-        #message = ''.join(chr(ord(correct_key) ^ ord(k)) for k in cipher_string)
-        #print("Message = ", message)
+                correct_cipher = s
+    print("----------------FOUND----------------")
+    print("High =", high)
+    print("Key = ", correct_key)
+    message = correct_cipher
+    print("Message = ", message.encode('utf-8'))
