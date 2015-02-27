@@ -7,7 +7,7 @@
 
 import binascii
 
-ciphers = [line[:-1] if line[-1] == '\n' else line for line in open('ciphers.txt')]
+ciphers = [line[:-1] if line[-1] == '\n' else line for line in open('challenge4.txt')]
 
 '''
 Returns the numner of times common characters appear in the string
