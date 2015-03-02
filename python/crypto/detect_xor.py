@@ -7,7 +7,7 @@
 
 import binascii
 
-ciphers = [line[:-1] if line[-1] == '\n' else line for line in open('challenge4.txt')]
+cipher_text_texts = [line[:-1] if line[-1] == '\n' else line for line in open('challenge4.txt')]
 
 '''
 Returns the numner of times common characters appear in the string
@@ -21,17 +21,17 @@ if __name__ == "__main__":
     high = 0
     i = 1
     correct_key = ' '
-    for cipher in ciphers:
-        cipher_bytes = binascii.unhexlify(cipher)
+    for cipher_text in cipher_text_texts:
+        cipher_text_bytes = binascii.unhexlify(cipher_text)
         for key in range(0, 256):
-            s = ''.join(chr(key ^ k) for k in cipher_bytes)
+            s = ''.join(chr(key ^ k) for k in cipher_text_bytes)
             ss = stupid_score(s)
             if high < ss:
                 high = ss
                 correct_key = key
-                correct_cipher = s
+                correct_cipher_text = s
     print("----------------FOUND----------------")
     print("High =", high)
     print("Key = ", correct_key)
-    message = correct_cipher
+    message = correct_cipher_text
     print("Message = ", message.encode('utf-8'))

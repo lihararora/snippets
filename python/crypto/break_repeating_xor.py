@@ -39,13 +39,13 @@ def nested_list(l, s):
     new_list = [s[i:i+l] for i in range(0, len(s), l)]
     return new_list
 
-def find_key(cipher_bytes):
+def find_key(cipher_text_bytes):
     key = ""
     key_size = 0
-    d = find_key_size(cipher_bytes)
+    d = find_key_size(cipher_text_bytes)
     for size, distance in d:
-        cipher_list = cipher_bytes
-        ll = nested_list(size, cipher_bytes)
+        cipher_text_list = cipher_text_bytes
+        ll = nested_list(size, cipher_text_bytes)
         block = bytearray()
         for b in ll:
             block.append(b[0])
@@ -70,9 +70,9 @@ def find_key(cipher_bytes):
 
 if __name__ == "__main__":
     s = open('challenge6.txt').read()
-    cipher_bytes = base64.b64decode(s)
-    key = find_key(cipher_bytes)
+    cipher_text_bytes = base64.b64decode(s)
+    key = find_key(cipher_text_bytes)
     print("Key = ", key)
-    hex_message = RKX.xor(cipher_bytes.decode('utf-8'), key)
+    hex_message = RKX.xor(cipher_text_bytes.decode('utf-8'), key)
     actual_message = binascii.unhexlify(hex_message)
     print("Message = ", actual_message)
