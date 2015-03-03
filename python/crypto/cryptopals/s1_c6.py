@@ -2,6 +2,7 @@
 
 '''
 @cryptopals: s1_c6
+@description: break_repeating_xor
 @author: Rahil Arora
 '''
 

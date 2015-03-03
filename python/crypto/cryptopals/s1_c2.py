@@ -2,6 +2,7 @@
 
 '''
 @cryptopals: s1_c2
+@description: fixed_xor
 @author: Rahil Arora
 '''
 

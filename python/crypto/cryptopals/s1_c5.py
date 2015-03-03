@@ -2,6 +2,7 @@
 
 '''
 @cryptopals: s1_c5
+@description: repeating_key_xor
 @author: Rahil Arora
 '''
 

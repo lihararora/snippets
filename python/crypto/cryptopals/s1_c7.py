@@ -2,6 +2,7 @@
 
 '''
 @cryptopals: s1_c7
+@description: aes_ecb
 @author: Rahil Arora
 '''
 

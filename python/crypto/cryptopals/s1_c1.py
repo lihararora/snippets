@@ -2,6 +2,7 @@
 
 '''
 @cryptopals: s1_c1
+@description: hex_to_base64
 @author: Rahil Arora
 '''
 
