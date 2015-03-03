@@ -8,8 +8,8 @@
 import binascii
 import string
 import base64
-import single_byte_xor as SBX
-import repeating_key_xor as RKX
+import s1_c3 as SBX
+import s1_c5 as RKX
 
 def hamming_distance(s1, s2):
     if len(s1) != len(s2):
