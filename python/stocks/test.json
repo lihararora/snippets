@@ -1,0 +1,1998 @@
+{
+  "response": {
+    "status": 200
+  },
+  "symbol": {
+    "id": 8669,
+    "symbol": "QUAD",
+    "title": "Quad/Graphics, Inc.",
+    "aliases": [],
+    "is_following": false,
+    "watchlist_count": 782
+  },
+  "cursor": {
+    "more": true,
+    "since": 188082768,
+    "max": 187240420
+  },
+  "messages": [
+    {
+      "id": 188082768,
+      "body": "$QUAD Added to position. 👌",
+      "created_at": "2019-12-26T15:15:25Z",
+      "user": {
+        "id": 365764,
+        "username": "ChartsNotHearts",
+        "name": "Dont fall in love",
+        "avatar_url": "https://avatars.stocktwits.com/production/365764/thumb-1576819626.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/365764/thumb-1576819626.png",
+        "join_date": "2014-06-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 440,
+        "following": 3,
+        "ideas": 5365,
+        "watchlist_stocks_count": 8,
+        "like_count": 2681,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          871019,
+          2066433,
+          809919
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 2,
+        "official_api": true
+      }
+    },
+    {
+      "id": 188006582,
+      "body": "$QUAD still swinging and not even looking to sell anytime soon. Pays a great dividend too",
+      "created_at": "2019-12-24T17:59:34Z",
+      "user": {
+        "id": 864430,
+        "username": "Reformed_Trader",
+        "name": "Reformed Trader",
+        "avatar_url": "https://avatars.stocktwits.com/production/864430/thumb-1479351192.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/864430/thumb-1479351192.png",
+        "join_date": "2016-10-21",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 9442,
+        "following": 84,
+        "ideas": 20085,
+        "watchlist_stocks_count": 14,
+        "like_count": 7686,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          1416385,
+          2066433,
+          871019,
+          939598,
+          814964,
+          2981036,
+          1374905,
+          764229
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          871019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_188006582.png",
+          "large": "https://charts.stocktwits.com/production/large_188006582.png",
+          "original": "https://charts.stocktwits.com/production/original_188006582.png",
+          "url": "https://charts.stocktwits.com/production/original_188006582.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 21,
+        "official_api": true
+      }
+    },
+    {
+      "id": 188005510,
+      "body": "@Nomisma hey man check out $QUAD",
+      "created_at": "2019-12-24T17:52:25Z",
+      "user": {
+        "id": 871019,
+        "username": "NoRedDays",
+        "name": "Avery",
+        "avatar_url": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "join_date": "2016-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 441,
+        "following": 20,
+        "ideas": 2240,
+        "watchlist_stocks_count": 16,
+        "like_count": 686,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 782
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 188005510,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          2066433
+        ]
+      },
+      "mentioned_users": [
+        "@Nomisma"
+      ],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 9,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187996619,
+      "body": "$QUAD still no news on book division sale.  Seems odd they put a dollar value on book division but no news on what is going on.  Keeping info from shareholders is what is getting them sued now right?",
+      "created_at": "2019-12-24T16:52:35Z",
+      "user": {
+        "id": 648200,
+        "username": "dennisborn",
+        "name": "Dennis Born",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2015-12-07",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 8,
+        "following": 0,
+        "ideas": 725,
+        "watchlist_stocks_count": 2,
+        "like_count": 6,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 782
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187996619,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 9
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 4,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187954822,
+      "body": "$QUAD has a bad technical rating, but it does show a decent setup pattern. https://www.chartmill.com/stock/analyzer/stock/QUAD?key=63e4d625-d936-4a73-b142-379aa2372897&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=QUAD&amp;utm_campaign=social_tracking",
+      "created_at": "2019-12-24T08:25:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 12985,
+        "following": 899,
+        "ideas": 743791,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/analyzer/stock/QUAD?key=63e4d625-d936-4a73-b142-379aa2372897&utm_source=stocktwits&utm_medium=TA&utm_content=QUAD&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/analyzer/stock/QUAD?key=63e4d625-d936-4a73-b142-379aa2372897&utm_source=stocktwits&utm_medium=TA&utm_content=QUAD&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/analyze...",
+          "description": null,
+          "image": null,
+          "created_at": "2019-12-24T08:25:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 1052,
+        "official_api": false
+      }
+    },
+    {
+      "id": 187894994,
+      "body": "$QUAD wait until she gets found",
+      "created_at": "2019-12-23T18:51:58Z",
+      "user": {
+        "id": 871019,
+        "username": "NoRedDays",
+        "name": "Avery",
+        "avatar_url": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "join_date": "2016-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 441,
+        "following": 20,
+        "ideas": 2240,
+        "watchlist_stocks_count": 16,
+        "like_count": 686,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187894994,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          2066433,
+          1374905,
+          814964,
+          162187,
+          898346
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 17,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187891954,
+      "body": "$CXDC wake up people.  This is a value play better than my $EROS sub $1.50 gift or $QUAD at $3.60 gift.  $1.5B in revenue, $230M+ in EBITDA!  Market cap is $100M.  Buyout offers on table over $5.  CEO owns 51% and buying hand over fist.  Sub $2 is good for a free 50% (likely much more) in near term.  More than doubled last January.  Buy it when they all hate it.  How many 100%ers do I have to give you people?",
+      "created_at": "2019-12-23T18:33:48Z",
+      "user": {
+        "id": 1305387,
+        "username": "Michael_Hunt",
+        "name": "Michael Hunt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "join_date": "2017-12-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6661,
+        "following": 22,
+        "ideas": 11643,
+        "watchlist_stocks_count": 96,
+        "like_count": 563,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7980,
+          "symbol": "CXDC",
+          "title": "China XD Plastics Company Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 744
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 782
+        },
+        {
+          "id": 11650,
+          "symbol": "EROS",
+          "title": "Eros International",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 10852
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187891954,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 10
+      },
+      "likes": {
+        "total": 7,
+        "user_ids": [
+          2267712,
+          1374042,
+          1888627,
+          2066433,
+          1664045,
+          1983012,
+          2843862
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 24,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187879930,
+      "body": "Santa&#39;s almost here. Watchlist: \n\n$BSQR \n$TORC \n$QUAD",
+      "created_at": "2019-12-23T17:23:34Z",
+      "user": {
+        "id": 1805716,
+        "username": "BootyCall",
+        "name": "PatternBreakout",
+        "avatar_url": "https://avatars.stocktwits.com/production/1805716/thumb-1555091192.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1805716/thumb-1555091192.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 229,
+        "following": 10,
+        "ideas": 1915,
+        "watchlist_stocks_count": 16,
+        "like_count": 352,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1148,
+          "symbol": "BSQR",
+          "title": "BSQUARE Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 667
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 14369,
+          "symbol": "TORC",
+          "title": "resTORbio",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2813
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          162187,
+          1166649,
+          871019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 1,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187861387,
+      "body": "$QUAD patience. Still trying to turn lots of pressure from the quick drop earlier. Still confident",
+      "created_at": "2019-12-23T15:40:59Z",
+      "user": {
+        "id": 1456192,
+        "username": "techNICKaltrader",
+        "name": "Nick",
+        "avatar_url": "https://avatars.stocktwits.com/production/1456192/thumb-1546312962.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1456192/thumb-1546312962.png",
+        "join_date": "2018-03-26",
+        "official": false,
+        "identity": "User",
+        "classification": [
+          "suggested"
+        ],
+        "followers": 1609,
+        "following": 22,
+        "ideas": 4659,
+        "watchlist_stocks_count": 174,
+        "like_count": 2696,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 782
+        }
+      ],
+      "likes": {
+        "total": 8,
+        "user_ids": [
+          871019,
+          1095479,
+          1026157,
+          1416385,
+          162187,
+          1791458,
+          814964,
+          1374905
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          871019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 11,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187781739,
+      "body": "Noticed this pattern with the volume too on $QUAD to further confirm that a reversal is imminent",
+      "created_at": "2019-12-21T23:08:58Z",
+      "user": {
+        "id": 871019,
+        "username": "NoRedDays",
+        "name": "Avery",
+        "avatar_url": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "join_date": "2016-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 440,
+        "following": 20,
+        "ideas": 2236,
+        "watchlist_stocks_count": 16,
+        "like_count": 680,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187781739,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 5,
+        "user_ids": [
+          2066433,
+          898346,
+          814964,
+          1374905,
+          1791458
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_187781739.png",
+          "large": "https://charts.stocktwits.com/production/large_187781739.png",
+          "original": "https://charts.stocktwits.com/production/original_187781739.png",
+          "url": "https://charts.stocktwits.com/production/original_187781739.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 8,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187759240,
+      "body": "$QUAD added the dip today more at 4.22",
+      "created_at": "2019-12-21T05:31:13Z",
+      "user": {
+        "id": 1374905,
+        "username": "TradingTherapy",
+        "name": "Cameron",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2018-01-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 59,
+        "following": 24,
+        "ideas": 1932,
+        "watchlist_stocks_count": 26,
+        "like_count": 5655,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 782
+        }
+      ],
+      "likes": {
+        "total": 3,
+        "user_ids": [
+          814964,
+          811850,
+          871019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 2,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187739443,
+      "body": "$QUAD Something is brewing and insiders couldn&#39;t avoid these bargain prices",
+      "created_at": "2019-12-20T22:38:50Z",
+      "user": {
+        "id": 871019,
+        "username": "NoRedDays",
+        "name": "Avery",
+        "avatar_url": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "join_date": "2016-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 441,
+        "following": 20,
+        "ideas": 2240,
+        "watchlist_stocks_count": 16,
+        "like_count": 686,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187739443,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          764229
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_187739443.PNG",
+          "large": "https://charts.stocktwits.com/production/large_187739443.PNG",
+          "original": "https://charts.stocktwits.com/production/original_187739443.PNG",
+          "url": "https://charts.stocktwits.com/production/original_187739443.PNG"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 9,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187736007,
+      "body": "$QUAD very significant after hour trades each day. 3 x 492733 shares shifted today (among MM&#39;s?)",
+      "created_at": "2019-12-20T22:04:59Z",
+      "user": {
+        "id": 814964,
+        "username": "NBI",
+        "name": "me",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-08-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 35,
+        "following": 37,
+        "ideas": 3052,
+        "watchlist_stocks_count": 26,
+        "like_count": 3307,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187736007,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 1,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187734536,
+      "body": "$QUAD Gimme 16. I’ll wait patiently and get paid in divys to do so🤑",
+      "created_at": "2019-12-20T21:53:47Z",
+      "user": {
+        "id": 871019,
+        "username": "NoRedDays",
+        "name": "Avery",
+        "avatar_url": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "join_date": "2016-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 441,
+        "following": 20,
+        "ideas": 2240,
+        "watchlist_stocks_count": 16,
+        "like_count": 686,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          1374905,
+          764229
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 7,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187714157,
+      "body": "$QUAD  lookin a lot better! That dive hard to overlook",
+      "created_at": "2019-12-20T20:03:06Z",
+      "user": {
+        "id": 764229,
+        "username": "justnkz",
+        "name": "james wood",
+        "avatar_url": "https://avatars.stocktwits.com/production/764229/thumb-1464802729.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/764229/thumb-1464802729.png",
+        "join_date": "2016-06-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 79,
+        "ideas": 1303,
+        "watchlist_stocks_count": 51,
+        "like_count": 1485,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187714157,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          162187,
+          814964,
+          898346,
+          871019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 9,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187703410,
+      "body": "$QUAD green babyyyy",
+      "created_at": "2019-12-20T18:55:45Z",
+      "user": {
+        "id": 871019,
+        "username": "NoRedDays",
+        "name": "Avery",
+        "avatar_url": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/871019/thumb-1558847098.png",
+        "join_date": "2016-11-02",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 440,
+        "following": 20,
+        "ideas": 2231,
+        "watchlist_stocks_count": 11,
+        "like_count": 674,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187703410,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          898346,
+          764229
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 4,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187656989,
+      "body": "Gap down and lower \n$X $MIK $BNGO $XNET $QUAD  \n \nScan updates every 5 secs.  \nstockbeep.com/gdn-dec20a",
+      "created_at": "2019-12-20T14:51:25Z",
+      "user": {
+        "id": 1572122,
+        "username": "StockbeepScanner",
+        "name": "stockbeep.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1572122/thumb-1543837039.png",
+        "join_date": "2018-08-10",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 977,
+        "following": 11,
+        "ideas": 2813,
+        "watchlist_stocks_count": 0,
+        "like_count": 27,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 7789,
+          "symbol": "X",
+          "title": "United States Steel Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 23177
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 12000,
+          "symbol": "MIK",
+          "title": "The Michaels Companies",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1115
+        },
+        {
+          "id": 12040,
+          "symbol": "XNET",
+          "title": "Xunlei",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7123
+        },
+        {
+          "id": 14753,
+          "symbol": "BNGO",
+          "title": "BioNano Genomics, Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7969
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187656989,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 4
+      },
+      "links": [
+        {
+          "title": "Gap Down Stocks Today | NYSE, NASDAQ and AMEX",
+          "url": "stockbeep.com/gdn-dec20a",
+          "shortened_url": "stockbeep.com/gdn-dec20a",
+          "shortened_expanded_url": "stockbeep.com/gap-down-stocks",
+          "description": "This scan identifies today's gap down stocks. We track stocks with an opening \"gap down\" and are trading lower beyond the gap. There are two kinds of down gaps - the full gap and the partial gap. A full gap occurs when the stock opens below the previous day's low.",
+          "image": "https://stockbeep.com/images/blogroll/live-tweets-stock-market.jpg",
+          "created_at": "2019-12-20T14:51:27Z",
+          "video_url": null,
+          "source": {
+            "name": "StockBeep",
+            "website": "https://stockbeep.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 21,
+        "official_api": false
+      }
+    },
+    {
+      "id": 187643568,
+      "body": "Quad/Graphics&#39;s PT cut by Buckingham Research to $5.00. neutral rating. https://www.marketbeat.com/r/1319827 $QUAD",
+      "created_at": "2019-12-20T13:42:07Z",
+      "user": {
+        "id": 284225,
+        "username": "AnalystRatingsNetwork",
+        "name": "MarketBeat.com",
+        "avatar_url": "https://avatars.stocktwits.com/production/284225/thumb-1484325936.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/284225/thumb-1484325936.png",
+        "join_date": "2013-11-24",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 7886,
+        "following": 9,
+        "ideas": 778143,
+        "watchlist_stocks_count": 0,
+        "like_count": 9,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1022,
+        "title": "Zapier",
+        "url": "https://zapier.com/"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "links": [
+        {
+          "title": "Quad/Graphics Stock Price, Forecast & News (NYSE:QUAD)",
+          "url": "https://www.marketbeat.com/r/1319827",
+          "shortened_url": "https://www.marketbeat.com/r/1319827",
+          "shortened_expanded_url": "marketbeat.com/stocks/NYSE/...",
+          "description": "Quad/Graphics, Inc provides marketing solutions worldwide. The company operates through United States Print and Related Services, and International segments. It offers printing services, such as retail inserts, publications, catalogs, special interest publications, journals, direct mail, books, directories, in-store marketing and promotion, packaging, newspapers, custom print products, and other commercial and specialty printed products; and paper procurement services.",
+          "image": "https://www.marketbeat.com/logos/quadgraphics-logo.jpg",
+          "created_at": "2019-12-20T13:42:15Z",
+          "video_url": null,
+          "source": {
+            "name": "Marketbeat",
+            "website": "https://www.marketbeat.com"
+          }
+        }
+      ],
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          372032
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 568,
+        "official_api": false
+      }
+    },
+    {
+      "id": 187524101,
+      "body": "$QUAD picked up a marker position.",
+      "created_at": "2019-12-19T15:52:59Z",
+      "user": {
+        "id": 162187,
+        "username": "indievestments",
+        "name": "m",
+        "avatar_url": "https://avatars.stocktwits.com/production/162187/thumb-1552077395.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/162187/thumb-1552077395.png",
+        "join_date": "2012-06-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 152,
+        "following": 89,
+        "ideas": 2369,
+        "watchlist_stocks_count": 34,
+        "like_count": 820,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 17,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187511992,
+      "body": "$CXDC I’ll see you over $3.  I’ve absolutely slammed the table on this sub $2.  If you follow me and haven’t bought yet unfollow me immediately.  This is far better than $EROS sub $1.50 or $QUAD sub $4.  I’ve DD’ed this to death and never ever ever seen one this good.  Wake up.",
+      "created_at": "2019-12-19T15:00:56Z",
+      "user": {
+        "id": 1305387,
+        "username": "Michael_Hunt",
+        "name": "Michael Hunt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "join_date": "2017-12-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6599,
+        "following": 22,
+        "ideas": 11603,
+        "watchlist_stocks_count": 96,
+        "like_count": 562,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 7980,
+          "symbol": "CXDC",
+          "title": "China XD Plastics Company Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 746
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 11650,
+          "symbol": "EROS",
+          "title": "Eros International",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 10836
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187511992,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 7
+      },
+      "likes": {
+        "total": 4,
+        "user_ids": [
+          1473589,
+          1437702,
+          2966683,
+          2929964
+        ]
+      },
+      "reshares": {
+        "reshared_count": 1,
+        "user_ids": [
+          1012296
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 82,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187409882,
+      "body": "Watchlist: \n\n$BSQR beautiful chart which is going to look like a private jet getting ready for a $ 9 flight to Bora Bora in the upcoming months. You could hold and treat yourself to a Bentley next year, or convince yourself that it&#39;s too slow and lose your $ elsewhere. \n\n$TACO insiders bought , charts want to go to 9 and then 10. \n\n$QUAD long hold ... play for the 2020\n\n$CXDC looking cheap at these levels",
+      "created_at": "2019-12-18T19:29:11Z",
+      "user": {
+        "id": 1805716,
+        "username": "BootyCall",
+        "name": "PatternBreakout",
+        "avatar_url": "https://avatars.stocktwits.com/production/1805716/thumb-1555091192.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1805716/thumb-1555091192.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 229,
+        "following": 10,
+        "ideas": 1915,
+        "watchlist_stocks_count": 15,
+        "like_count": 352,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 1148,
+          "symbol": "BSQR",
+          "title": "BSQUARE Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 667
+        },
+        {
+          "id": 7980,
+          "symbol": "CXDC",
+          "title": "China XD Plastics Company Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 749
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 12588,
+          "symbol": "TACO",
+          "title": "Del Taco Restaurants Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1194
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187409882,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 2
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 3,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187397596,
+      "body": "QuadMed finalizes Epic transition as part of year-long transformation strategy https://marketwirenews.com/news-releases/quadmed-finalizes-epic-transition-as-part-of-year-lo-7015494493521690.html?i=c $QUAD News out",
+      "created_at": "2019-12-18T18:20:43Z",
+      "user": {
+        "id": 2850427,
+        "username": "BuckAbramo",
+        "name": "Abramo Bucknell",
+        "avatar_url": "https://avatars.stocktwits.com/production/2850427/thumb-1570548713.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2850427/thumb-1570548713.png",
+        "join_date": "2019-10-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 2,
+        "following": 0,
+        "ideas": 761,
+        "watchlist_stocks_count": 2,
+        "like_count": 0,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 5010,
+        "title": "Stock Twits Api Login",
+        "url": "https://momogains.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "links": [
+        {
+          "title": "QuadMed finalizes Epic transition as part of year-long transformation strategy",
+          "url": "https://marketwirenews.com/news-releases/quadmed-finalizes-epic-transition-as-part-of-year-lo-7015494493521690.html?i=c",
+          "shortened_url": "https://marketwirenews.com/news-releases/quadmed-finalizes-epic-transition-as-part-of-year-lo-7015494493521690.html?i=c",
+          "shortened_expanded_url": "marketwirenews.com/news-rel...",
+          "description": "SUSSEX, Wis., Dec. 18, 2019 /PRNewswire/ -- QuadMed, a leader in worksite Health and wellness solutions, has finalized its transition to Epic, the most widely-used and comprehensive health records system. The company is only the second dedicated employer-sponsored health care provider to implement Epic.",
+          "image": "https://assets.marketwirenews.com/img/stock-market/stock-market-wire-news-logo-2000.png",
+          "created_at": "2019-12-18T18:20:44Z",
+          "video_url": null,
+          "source": {
+            "name": "Market Wire News",
+            "website": "https://marketwirenews.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 21,
+        "official_api": false
+      }
+    },
+    {
+      "id": 187390196,
+      "body": "$QUAD wants to breakout so badly. Just let it go",
+      "created_at": "2019-12-18T17:39:40Z",
+      "user": {
+        "id": 814964,
+        "username": "NBI",
+        "name": "me",
+        "avatar_url": "http://avatars.stocktwits.com/images/default_avatar_thumb.jpg",
+        "avatar_url_ssl": "https://s3.amazonaws.com/st-avatars/images/default_avatar_thumb.jpg",
+        "join_date": "2016-08-08",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 35,
+        "following": 37,
+        "ideas": 3052,
+        "watchlist_stocks_count": 26,
+        "like_count": 3307,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 2,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187387025,
+      "body": "$XBIO let me be clear on my intentions here, this is NOT a scalp for me.  In fact I need more shares sub $1.35.  I want $3+ minimum here. This is in line with my value gems of $EROS $PHAS $QUAD and $CXDC.  I want a multi bagger and I will damn sure get it.  I always get mine.  Always.",
+      "created_at": "2019-12-18T17:22:02Z",
+      "user": {
+        "id": 1305387,
+        "username": "Michael_Hunt",
+        "name": "Michael Hunt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "join_date": "2017-12-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6622,
+        "following": 22,
+        "ideas": 11609,
+        "watchlist_stocks_count": 96,
+        "like_count": 562,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7980,
+          "symbol": "CXDC",
+          "title": "China XD Plastics Company Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 747
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 11650,
+          "symbol": "EROS",
+          "title": "Eros International",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 10847
+        },
+        {
+          "id": 13261,
+          "symbol": "XBIO",
+          "title": "Xenetic Biosciences Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 7337
+        },
+        {
+          "id": 14975,
+          "symbol": "PHAS",
+          "title": "PhaseBio Pharmaceuticals Inc",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 2142
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187387025,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 6
+      },
+      "likes": {
+        "total": 6,
+        "user_ids": [
+          1141637,
+          1779114,
+          38750,
+          1095479,
+          2843862,
+          2929964
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 19,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187382197,
+      "body": "$QUAD 74 sec ago: QuadMed finalizes Epic transition as part of year-long transformation strategy: QuadMed has finalized its transition to Epic, the most widely-used and comprehensive health records system. The co.. https://newsfilter.io/articles/quadmed-finalizes-epic-transition-as-part-of-year-long-transformation-strategy-f2af37fa32ce415cc7c656c523d996c9",
+      "created_at": "2019-12-18T16:56:14Z",
+      "user": {
+        "id": 2762379,
+        "username": "newsfilter",
+        "name": "@newsfilterio",
+        "avatar_url": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/2762379/thumb-1570180226.png",
+        "join_date": "2019-09-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 1223,
+        "following": 2,
+        "ideas": 147149,
+        "watchlist_stocks_count": 1,
+        "like_count": 303,
+        "plus_tier": "month",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 4948,
+        "title": "Newsfilter.io",
+        "url": "https://newsfilter.io"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "links": [
+        {
+          "title": "QuadMed finalizes Epic transition as part of year-long transformation strategy",
+          "url": "https://newsfilter.io/articles/quadmed-finalizes-epic-transition-as-part-of-year-long-transformation-strategy-f2af37fa32ce415cc7c656c523d996c9",
+          "shortened_url": "https://newsfilter.io/articles/quadmed-finalizes-epic-transition-as-part-of-year-long-transformation-strategy-f2af37fa32ce415cc7c656c523d996c9",
+          "shortened_expanded_url": "newsfilter.io/articles/quad...",
+          "description": "\"Epic has allowed us to combine best-in-class technology, high-quality clinical practice and an enhanced patient-provider experience,\" said Scheide. \"The platform simplifies workflows and gives providers more time with patients, helping to develop personal connections that positively influence health outcomes.\" Epic streamlines coordinated care efforts by seamlessly delivering vital health information between health networks.",
+          "image": "https://mma.prnewswire.com/media/1056967/Jeanne_Scheide_QuadMed.jpg?p=publish&w=950",
+          "created_at": "2019-12-18T16:56:18Z",
+          "video_url": null,
+          "source": {
+            "name": "Newsfilter",
+            "website": "https://newsfilter.io"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 1972,
+        "official_api": false
+      }
+    },
+    {
+      "id": 187327533,
+      "body": "$QUAD",
+      "created_at": "2019-12-18T09:30:35Z",
+      "user": {
+        "id": 1374042,
+        "username": "Sexaddict",
+        "name": "Frank Dawson",
+        "avatar_url": "https://avatars.stocktwits.com/production/1374042/thumb-1539292501.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1374042/thumb-1539292501.png",
+        "join_date": "2018-01-18",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 71,
+        "following": 1,
+        "ideas": 3517,
+        "watchlist_stocks_count": 100,
+        "like_count": 919,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2095,
+        "title": "StockTwits For Android ",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "likes": {
+        "total": 1,
+        "user_ids": [
+          871019
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 6,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187320883,
+      "body": "Although the technical rating is bad, $QUAD does present a nice setup opportunity. https://www.chartmill.com/stock/quote/QUAD/technical-analysis?key=63e4d625-d936-4a73-b142-379aa2372897&amp;utm_source=stocktwits&amp;utm_medium=TA&amp;utm_content=QUAD&amp;utm_campaign=social_tracking",
+      "created_at": "2019-12-18T04:43:00Z",
+      "user": {
+        "id": 47688,
+        "username": "ChartMill",
+        "name": "ChartMill",
+        "avatar_url": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/47688/thumb-1363343728.png",
+        "join_date": "2011-01-26",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 12986,
+        "following": 899,
+        "ideas": 743863,
+        "watchlist_stocks_count": 20,
+        "like_count": 32,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1135,
+        "title": "ChartMill",
+        "url": "http://www.chartmill.com"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "links": [
+        {
+          "title": null,
+          "url": "https://www.chartmill.com/stock/quote/QUAD/technical-analysis?key=63e4d625-d936-4a73-b142-379aa2372897&utm_source=stocktwits&utm_medium=TA&utm_content=QUAD&utm_campaign=social_tracking",
+          "shortened_url": "https://www.chartmill.com/stock/quote/QUAD/technical-analysis?key=63e4d625-d936-4a73-b142-379aa2372897&utm_source=stocktwits&utm_medium=TA&utm_content=QUAD&utm_campaign=social_tracking",
+          "shortened_expanded_url": "chartmill.com/stock/quote/Q...",
+          "description": null,
+          "image": null,
+          "created_at": "2019-12-18T04:43:04Z",
+          "video_url": null,
+          "source": {
+            "name": "Chartmill",
+            "website": "https://www.chartmill.com"
+          }
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 1037,
+        "official_api": false
+      }
+    },
+    {
+      "id": 187242051,
+      "body": "$CXDC sorry one last thing, raise your hand if you were the fuggin moron that sold me 30,000 more shares in the $1.50s.  Name the last value play I&#39;ve missed.  $EROS sub $1.50, $QUAD in mid $3s and the list goes on.  This one will trump them all.  $220M a year in EBITDA folks, should be $1.5B market cap all day long.  It&#39;s $100M.  It doesn&#39;t get any easier than this.  Look at last December, they crashed it only to more than double it in 3 weeks.  Guess what repeat coming.  I&#39;m buying hand over fist sub $2.  Take it as low as you want.  $3+ before end of January so I&#39;ll quit trading for life.",
+      "created_at": "2019-12-17T18:11:44Z",
+      "user": {
+        "id": 1305387,
+        "username": "Michael_Hunt",
+        "name": "Michael Hunt",
+        "avatar_url": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1305387/thumb-1512834786.png",
+        "join_date": "2017-12-09",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 6622,
+        "following": 22,
+        "ideas": 11609,
+        "watchlist_stocks_count": 96,
+        "like_count": 562,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 7980,
+          "symbol": "CXDC",
+          "title": "China XD Plastics Company Ltd.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 747
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 11650,
+          "symbol": "EROS",
+          "title": "Eros International",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 10847
+        }
+      ],
+      "conversation": {
+        "parent_message_id": 187242051,
+        "in_reply_to_message_id": null,
+        "parent": true,
+        "replies": 1
+      },
+      "likes": {
+        "total": 9,
+        "user_ids": [
+          1849035,
+          2966683,
+          2194641,
+          1888627,
+          2956286,
+          1619529,
+          795308,
+          1464638,
+          2901568
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "chart": {
+          "thumb": "https://charts.stocktwits.com/production/small_187242051.png",
+          "large": "https://charts.stocktwits.com/production/large_187242051.png",
+          "original": "https://charts.stocktwits.com/production/original_187242051.png",
+          "url": "https://charts.stocktwits.com/production/original_187242051.png"
+        },
+        "sentiment": {
+          "basic": "Bullish"
+        }
+      },
+      "filters": {
+        "day_counts": 26,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187240762,
+      "body": "Watchlist: \n\n$BSQR strong bid support, loading for weeks now. Chart getting ready for a blue sky breakout. Gotta give it some time though\n\n$ARTL watching\n\n$QUAD added some more to my core today long swing\n\n$AIM watching",
+      "created_at": "2019-12-17T18:04:44Z",
+      "user": {
+        "id": 1805716,
+        "username": "BootyCall",
+        "name": "PatternBreakout",
+        "avatar_url": "https://avatars.stocktwits.com/production/1805716/thumb-1555091192.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/1805716/thumb-1555091192.png",
+        "join_date": "2019-01-11",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 229,
+        "following": 10,
+        "ideas": 1915,
+        "watchlist_stocks_count": 15,
+        "like_count": 352,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 2269,
+        "title": "StockTwits Web",
+        "url": "https://stocktwits.com"
+      },
+      "symbols": [
+        {
+          "id": 16,
+          "symbol": "AIM",
+          "title": "ImmunoTech Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 1033
+        },
+        {
+          "id": 1148,
+          "symbol": "BSQR",
+          "title": "BSQUARE Corp.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 667
+        },
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        },
+        {
+          "id": 15424,
+          "symbol": "ARTL",
+          "title": "Artelo Biosciences",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 714
+        }
+      ],
+      "likes": {
+        "total": 2,
+        "user_ids": [
+          2929419,
+          1274569
+        ]
+      },
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 7,
+        "official_api": true
+      }
+    },
+    {
+      "id": 187240420,
+      "body": "$QUAD The baby got legs!  The divvy will keep Some support under it. How can you not like 13%🤣",
+      "created_at": "2019-12-17T18:02:37Z",
+      "user": {
+        "id": 764229,
+        "username": "justnkz",
+        "name": "james wood",
+        "avatar_url": "https://avatars.stocktwits.com/production/764229/thumb-1464802729.png",
+        "avatar_url_ssl": "https://avatars.stocktwits.com/production/764229/thumb-1464802729.png",
+        "join_date": "2016-06-01",
+        "official": false,
+        "identity": "User",
+        "classification": [],
+        "followers": 15,
+        "following": 79,
+        "ideas": 1303,
+        "watchlist_stocks_count": 51,
+        "like_count": 1484,
+        "plus_tier": "",
+        "premium_room": ""
+      },
+      "source": {
+        "id": 1149,
+        "title": "StockTwits for iOS",
+        "url": "http://www.stocktwits.com/mobile"
+      },
+      "symbols": [
+        {
+          "id": 8669,
+          "symbol": "QUAD",
+          "title": "Quad/Graphics, Inc.",
+          "aliases": [],
+          "is_following": false,
+          "watchlist_count": 781
+        }
+      ],
+      "mentioned_users": [],
+      "entities": {
+        "sentiment": null
+      },
+      "filters": {
+        "day_counts": 1,
+        "official_api": true
+      }
+    }
+  ]
+}
