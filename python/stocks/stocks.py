@@ -1,6 +1,6 @@
 import argparse
 import requests
-import ConfigParser
+import configparser
 from datetime import date
 from dateutil.relativedelta import relativedelta
 
@@ -10,7 +10,7 @@ parser.add_argument('stocks', help='Stock tickers')
 parser.add_argument('--lookback', help='Number of years to look back', type=int, default=24)
 args = vars(parser.parse_args())
 
-configParser = ConfigParser.RawConfigParser()
+configParser = configparser.RawConfigParser()
 configFilePath = r'config.ini'
 configParser.read(configFilePath)
 
@@ -23,7 +23,7 @@ LOW_KEY = "3. low"
 DIVIDEND_KEY = "7. dividend amount"
 
 stocks = args['stocks'].split(',')
-print stocks
+print(stocks)
 
 def get_dividend_high_low(stock,lookback):
     #Return dividend info and "lookback" high and low for a given "stock"
@@ -111,14 +111,14 @@ def get_stocktwits(stock):
 if args['type'] == 'dividend':
     for stock in stocks:
         data = get_dividend_high_low(stock,args['lookback'])
-        print data
+        print(data)
 
 if args['type'] == 'stats':
     for stock in stocks:
         data = get_stats(stock)
-        print data
+        print(data)
 
 if args['type'] == 'stocktwits':
     for stock in stocks:
         data = get_stocktwits(stock)
-        print data
+        print(data)
